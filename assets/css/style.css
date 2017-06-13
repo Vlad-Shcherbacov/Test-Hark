@@ -1,0 +1,10 @@
+@font-face {
+	font-family:"";
+	src:url(../fonts/);
+}
+
+body { 
+   
+    font: 14px "Helvetica Neue",Helvetica,Arial,sans-serif;
+    margin:0;
+}
